@@ -1,0 +1,13 @@
+{
+    "addOnName": "SuperquadraAutomation",
+    "defaultLanguage": "INT",
+    "languages": [
+        "INT"
+    ],
+    "version": "2.0.0",
+    "copyright": {
+        "name": "Superquadra",
+        "year": "2026"
+    },
+    "description": "Superquadra Kernel Automation Add-On v2.0.0 for Archicad 29"
+}
